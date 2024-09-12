@@ -1,0 +1,37 @@
+{
+  "name": "nodesonia",
+  "version": "1.0.0",
+  "description": "a node js tutorial by sonia yadav",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anil-sidhu/node-js.git"
+  },
+  "keywords": [
+    "code",
+    "with",
+    "sonia"
+  ],
+  "author": "sonia yadav cutie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anil-sidhu/node-js/issues"
+  },
+  "homepage": "https://github.com/anil-sidhu/node-js#readme",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "colors": "^1.4.0",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.5.1",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.9.14",
+    "simple-node-logger": "^21.8.12"
+  }
+}
